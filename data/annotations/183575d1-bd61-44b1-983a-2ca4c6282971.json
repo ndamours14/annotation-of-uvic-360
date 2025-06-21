@@ -504,6 +504,10 @@
         {
           "category": "Building Code",
           "tag": "LIB"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "b74cdf89-35a4-40fb-988d-e20e79db4112"
