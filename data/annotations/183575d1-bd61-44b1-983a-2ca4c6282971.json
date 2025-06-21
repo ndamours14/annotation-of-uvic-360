@@ -200,6 +200,10 @@
         {
           "category": "Building Code",
           "tag": "PNX"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "56a6d60a-f2fb-4ba5-a29a-1e09ac5b3b86"
