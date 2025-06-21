@@ -344,6 +344,10 @@
         {
           "category": "Building Code",
           "tag": "FPH"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "d1d139d4-7d98-4040-99e9-a274031b2cbb"
