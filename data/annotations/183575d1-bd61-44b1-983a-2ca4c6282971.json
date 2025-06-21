@@ -232,6 +232,10 @@
         {
           "category": "Building Code",
           "tag": "MAC"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "391e3347-79a1-4ff7-9ccb-dc9b93fa5fce"
