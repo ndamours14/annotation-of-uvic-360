@@ -408,6 +408,10 @@
         {
           "category": "Building Code",
           "tag": "ELL"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "c68bdb26-5ad7-4d97-88ce-b0f643afacf3"
