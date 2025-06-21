@@ -152,6 +152,10 @@
         {
           "category": "Building Code",
           "tag": "VIA"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
         }
       ],
       "uuid": "8f8fcb06-c389-4db2-a7dc-899fb3cb44f5"
