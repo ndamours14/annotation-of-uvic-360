@@ -472,6 +472,10 @@
         {
           "category": "Building Code",
           "tag": "ECS"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
         }
       ],
       "uuid": "4c4d69ba-fc63-4634-9681-f134fccbd845"
