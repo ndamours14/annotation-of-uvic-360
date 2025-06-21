@@ -308,6 +308,10 @@
         {
           "category": "Building Code",
           "tag": "COR"
+        },
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
         }
       ],
       "uuid": "71009091-cb72-4155-82ae-2fef3f3ed2d8"
