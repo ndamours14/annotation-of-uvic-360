@@ -1,1 +1,104 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"ndamours14","avatar_url":"https://avatars.githubusercontent.com/u/194835216?v=4","admin":true}],"project":{"github_org":"ndamours14","is_private":false,"title":"Annotation of UVic in 360°","description":"This is an annotated 360° video tour of the University of Victoria. The tour video was produced in 2016.","language":"en","slug":"annotation-of-uvic-360","creator":"ndamours14","authors":"","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"FIA"},{"category":"_uncategorized_","tag":"PNX"},{"category":"_uncategorized_","tag":"VIA"},{"category":"_uncategorized_","tag":"Outdoor"},{"category":"_uncategorized_","tag":"Indoor"},{"category":"_uncategorized_","tag":"MAC"},{"category":"_uncategorized_","tag":"FPH"},{"category":"_uncategorized_","tag":"COR"},{"category":"_uncategorized_","tag":"ELL"},{"category":"_uncategorized_","tag":"ECS"},{"category":"_uncategorized_","tag":"LIB"}]},"created_at":"2025-06-21T19:54:07.998Z","updated_at":"2025-06-21T19:55:51.617Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"073f81f8-7200-400e-abfc-1785946e310c":{"content":[],"created_at":"2025-06-21T19:54:08.020Z","created_by":"ndamours14","title":"Annotation of UVic in 360°","updated_at":"2025-06-21T19:54:08.020Z","updated_by":"ndamours14","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["073f81f8-7200-400e-abfc-1785946e310c"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "ndamours14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194835216?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "ndamours14",
+    "is_private": false,
+    "title": "Annotation of UVic in 360°",
+    "description": "This is an annotated 360° video tour of the University of Victoria. The tour video was produced in 2016.",
+    "language": "en",
+    "slug": "annotation-of-uvic-360",
+    "creator": "ndamours14",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "FIA"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PNX"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "VIA"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Indoor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MAC"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "FPH"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "COR"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ELL"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ECS"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "LIB"
+        }
+      ]
+    },
+    "created_at": "2025-06-21T19:54:07.998Z",
+    "updated_at": "2025-06-21T19:55:52.719Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "073f81f8-7200-400e-abfc-1785946e310c": {
+      "content": [],
+      "created_at": "2025-06-21T19:54:08.020Z",
+      "created_by": "ndamours14",
+      "title": "Annotation of UVic in 360°",
+      "updated_at": "2025-06-21T19:54:08.020Z",
+      "updated_by": "ndamours14",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "073f81f8-7200-400e-abfc-1785946e310c"
+  ]
+}
